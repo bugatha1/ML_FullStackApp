@@ -12,22 +12,23 @@ Machine learning powered app to decide whether a photo is food or not food
       
       
    **Collect dataset**
-      - Need images of food or not food
       
-      - George Washington
-      - John Adams
-      - Thomas Jefferson
+      - Need images of food or not food
      
    **Model dataset**
-      1.  Build a computer vision model to classify food and not food
+   
+      -  Build a computer vision model to classify food and not food
       
    **Build Application**
-      1.  Simple html with javascript
+   
+      -  Simple html with javascript
       
    **Deploy model**
+   
        we have few options here
-       1. Gradio
-         1. Tensorflow.js
-           1. API
+       
+        - Gradio
+        - Tensorflow.js
+        - API
       
       
