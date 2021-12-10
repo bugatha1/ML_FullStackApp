@@ -15,15 +15,15 @@ Machine learning powered app to decide whether a photo is food or not food
       - Need images of food or not food
      
    **Model dataset**
-      - Build a computer vision model to classify food and not food
+      1.  Build a computer vision model to classify food and not food
       
    **Build Application**
-      - Simple html with javascript
+      -.  Simple html with javascript
       
    **Deploy model**
        we have few options here
-       - Gradio
-         - Tensorflow.js
-           - API
+       -. Gradio
+         -. Tensorflow.js
+           -. API
       
       
