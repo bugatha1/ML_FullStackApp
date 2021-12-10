@@ -22,8 +22,8 @@ Machine learning powered app to decide whether a photo is food or not food
       
    **Deploy model**
        we have few options here
-        - Gradio
-        - Tensorflow.js
-        - API
+       - Gradio
+         - Tensorflow.js
+           - API
       
       
