@@ -13,6 +13,10 @@ Machine learning powered app to decide whether a photo is food or not food
       
    **Collect dataset**
       - Need images of food or not food
+      
+      - George Washington
+      - John Adams
+      - Thomas Jefferson
      
    **Model dataset**
       1.  Build a computer vision model to classify food and not food
