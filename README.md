@@ -2,7 +2,7 @@
 Machine learning powered app to decide whether a photo is food or not food
 
 
-**What we are going to build**
+
    **Full Stack ML application**
    
       1.  Collect dataset
