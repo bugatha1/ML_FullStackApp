@@ -14,6 +14,9 @@ Machine learning powered app to decide whether a photo is food or not food
    **Collect dataset**
       
       - Need images of food or not food
+      
+          -   For images of not food : download random images from imageNet
+          -   or images of food : random subset of images from food101
      
    **Model dataset**
    
