@@ -33,5 +33,13 @@ Machine learning powered app to decide whether a photo is food or not food
         - Gradio
         - Tensorflow.js
         - API
+        
+   **Log**
+   
+      .   downloaded imagenet class list from GitHub(want to get non-food classes from ImageNet)
+      
+          -   https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a
+          
+      .   downloaded and installed nltk (to try and get a list of words associated with food)
       
       
