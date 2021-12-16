@@ -50,6 +50,16 @@ Machine learning powered app to decide whether a photo is food or not food
       .    Now to figure out how to download food and non_food images from ImageNet(random samples )
           
             - And can also create food images from Food101( random classes of imges from different classes)
+       
+      .   Updated list of ImageNet food and non-food items to include ImageNet keys from :
+          https://github.com/mf1024/ImageNet-Datasets-Downloader (ImageNet dataset downloader)
+            
+              -   The data downloader uses only uses Flickr URLs ( less than total ImageNet images ) because ImageNet
+                  images are downloaded with different URLs, however Flickr images are most reliable - 
+                  https://towardsdatascience.com/how-to-scrape-the-imagenet-f309e02de1f4
+                  
+      .  Execute the below command to download images with:
+          
             
             
       
