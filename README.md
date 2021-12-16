@@ -59,6 +59,8 @@ Machine learning powered app to decide whether a photo is food or not food
                   https://towardsdatascience.com/how-to-scrape-the-imagenet-f309e02de1f4
                   
       .  Execute the below command to download images with:
+                    
+            python3 ./downloader.py -data_root ../test_images  -number_of_classes 5 \ -images_per_class 10
           
             
             
