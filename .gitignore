@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# image folders
+data/imagenet_images/*
+data/non_food_images/*
+data/food_images/*
+data/model_test_images/*
