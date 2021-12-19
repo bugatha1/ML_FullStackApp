@@ -62,7 +62,15 @@ Machine learning powered app to decide whether a photo is food or not food
                     
             python3 ./downloader.py -data_root ../test_images  -number_of_classes 5 \ -images_per_class 10
           
+            Started downloding images from ImageNet going to filter these on backend into food_images and non_food_images
             
-            
+                - downloading 50 random images from 1000 random classes
+                - Then :  filter 1000 random classes and images into food/nonfood
+                - command used:
+                  
+                    !python downloader.py \
+                    -data_root ..data/imagenet_images/ \
+                    -number_of_classes 1000 \
+                    -images_per_class 50
       
       
